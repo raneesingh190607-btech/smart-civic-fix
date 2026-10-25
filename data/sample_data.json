@@ -1,0 +1,32 @@
+[
+  {
+    "id": "CF-2026-001",
+    "category": "Roads & Infrastructure",
+    "issueType": "Major Pothole",
+    "description": "Large pothole in the middle of the left lane causing vehicles to swerve dangerously.",
+    "location": {
+      "address": "Sector 11, near Metro Station Gate 2",
+      "latitude": 23.2245,
+      "longitude": 72.6412
+    },
+    "imageUrl": "https://example.com",
+    "reportedAt": "2026-10-24T09:30:00Z",
+    "status": "Pending Review",
+    "priority": "High"
+  },
+  {
+    "id": "CF-2026-002",
+    "category": "Waste Management",
+    "issueType": "Overflowing Garbage Bin",
+    "description": "Public dumpster hasn't been cleared in 3 days. Waste is spilling onto the pavement, creating foul smell.",
+    "location": {
+      "address": "Infocity Main Road, opposite Food Court",
+      "latitude": 23.1984,
+      "longitude": 72.6289
+    },
+    "imageUrl": "https://example.com",
+    "reportedAt": "2026-10-25T07:15:00Z",
+    "status": "In Progress",
+    "priority": "Medium"
+  }
+]
